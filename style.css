@@ -142,3 +142,58 @@ ul {
   margin: 0;
   align-self: flex-end;
 }
+
+.cta {
+  background-color: white;
+  height: 300px;
+  padding-top: 80px;
+  margin: 0;
+}
+
+.blue-cta {
+  display: flex;
+  flex: 1;
+  background-color: #3882F6;
+  padding: 44px 60px;
+  max-width: 600px;
+  justify-content: center;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px;
+  gap: 24px;
+  color: white;
+}
+
+.sign-up2 {
+  color: white;
+  background-color: #3882F6;
+  border-radius: 10px;
+  font-weight: bolder;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #E5E7EB;
+  width: 160px;
+  padding: 10px 20px
+}
+
+.cta-text {
+  color: white;
+}
+
+.copyright {
+  background-color: #1F2937;
+  height: 80px;
+}
+
+.copyright-text {
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  font-size: 18px;
+  padding: 30px;
+  margin: 0 auto;
+}
